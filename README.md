@@ -5,8 +5,8 @@ Small school project at the **Lexicon** education **.NET Fullstack developer** 2
 
 
 **TIMELINE**<br/>
-STARTDATE: 2026-10-05<br/>
-ENDDATE: 2026-10-05<br/>
+START: 2026-10-05 13.00<br/>
+DEADLINE: 2026-10-06 10.00<br/>
 <br/>
 
 
