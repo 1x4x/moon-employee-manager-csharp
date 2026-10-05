@@ -7,7 +7,7 @@ Small school project at the $${\color{red}LEXICON}$$ education $${\color{red}.NE
 <br/>
 
 
-
+✅
 
 
 **$${\color{yellow}TECH}$$**<br/>
