@@ -47,10 +47,12 @@ Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett lit
 
 **Uppgift 1** <br/>
 Vilka klasser bör ingå i programmet? <br/>
+User (string fullname, int salary)
 <br/>
 
 **Uppgift 2** <br/>
 Vilka attribut och metoder bör ingå i dessa klasser? <br/>
+User (Read, Create)
 <br/>
 <br/>
 
