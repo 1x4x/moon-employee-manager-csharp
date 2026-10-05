@@ -60,7 +60,7 @@ De har endast två krav<br/>
 | --- |
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
-| $${\color{green}My answer: User (string fullname, int salary)}$$ |
+| $${\color{green}My answer: User.Create(User user), User.GetList()}$$ |
 <br/>
 
 
