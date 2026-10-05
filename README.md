@@ -49,8 +49,6 @@ Vilka attribut och metoder bör ingå i dessa klasser? <br/>
 <br/>
 
 **Uppgift 3** <br/>
-<br/>
-
 **Skriv programmet** <br/>
 Försök göra programmet så robust och framtidssäkert som möjligt! <br/>
 Ni får gärna lägga på extra funktionalitet!<br/>
