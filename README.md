@@ -70,9 +70,9 @@ De har endast två krav<br/>
 | --- |
 | **$${\color{yellow}ASSIGNMENT 3}$$** |
 | **Skriv programmet** |
-| ● Försök göra programmet så robust och framtidssäkert som möjligt! |
-| ● Ni får gärna lägga på extra funktionalitet! |
-| ● Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
+| ○ Försök göra programmet så robust och framtidssäkert som möjligt! |
+| ○ Ni får gärna lägga på extra funktionalitet! |
+| ○ Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
 lidande) |
 | $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
