@@ -15,6 +15,7 @@ console app, csharp, json
 <br/>
 <br/>
 
+$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 
 **INSTRUCTIONS**<br/>
 C# Övning 1 - Personalregister <br/>
