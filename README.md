@@ -15,7 +15,7 @@ console app, csharp, json
 <br/>
 <br/>
 
-$${\color{yellow}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
+$${\color{yellow}Walters Employee Manager$$
 
 **INSTRUCTIONS**<br/>
 C# Övning 1 - Personalregister <br/>
