@@ -26,3 +26,35 @@ fallet kan du hoppa över resten. Annars följ nästa steg. <br/>
 <br/>
 <br/>
 
+
+
+**Bakgrund** <br/>
+Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett litet personalregister. <br/>
+<br/>
+
+**De har endast två krav:** <br/>
+1. Registret skall kunna ta emot och lagra anställda med namn och lön. (via inmatning 
+ i konsolen, inget krav på persistent lagring) <br/>
+2. Programmet skall kunna skriva ut registret i en konsol. <br/>
+<br/>
+<br/>
+
+**Uppgift 1** <br/>
+Vilka klasser bör ingå i programmet? <br/>
+<br/>
+
+**Uppgift 2** <br/>
+Vilka attribut och metoder bör ingå i dessa klasser? <br/>
+<br/>
+<br/>
+
+**Uppgift 3** <br/>
+<br/>
+
+**Skriv programmet** <br/>
+Försök göra programmet så robust och framtidssäkert som möjligt! <br/>
+Ni får gärna lägga på extra funktionalitet!<br/>
+Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
+lidande) <br/>
+Koden ska ligga uppe på GIT senast imorgon kl. 10.00<br/>
+Lycka till!<br/>
