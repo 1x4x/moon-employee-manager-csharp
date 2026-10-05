@@ -41,9 +41,8 @@ Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett lit
 
 
 De har endast två krav<br/>
-1. Registret skall kunna ta emot och lagra anställda med namn och lön. (via inmatning 
- i konsolen, inget krav på persistent lagring) <br/>
-2. Programmet skall kunna skriva ut registret i en konsol. <br/>
+✅1. Registret skall kunna ta emot och lagra anställda med namn och lön. (via inmatning  i konsolen, inget krav på persistent lagring) <br/>
+✅2. Programmet skall kunna skriva ut registret i en konsol. <br/>
 <br/>
 <br/>
 
