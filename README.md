@@ -62,7 +62,7 @@ De har endast två krav<br/>
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
 | $${\color{green}My answer:}$$ |
 | $${\color{green}User.Create(User user)}$$ |
-| $${\color{green}User.GetList()}$$ |
+| $${\color{green}User.GetAllUsers()}$$ |
 <br/>
 
 
