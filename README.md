@@ -61,7 +61,7 @@ De har endast två krav<br/>
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
 | $${\color{green}My answer:}$$ |
-| $${\color{green}User.Create(User user)}$$ |
+| $${\color{green}User.Create(User \space user)}$$ |
 | $${\color{green}User.GetAllUsers()}$$ |
 <br/>
 
