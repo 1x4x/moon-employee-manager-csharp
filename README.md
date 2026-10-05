@@ -1,3 +1,3 @@
-# Moon Employee Manager
+# 🌛 Moon Employee Manager
 
-Tech: csharp, json
+Tech: console app, csharp, json
