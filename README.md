@@ -75,4 +75,8 @@ lidande) <br/>
 | $${\color{red}DEADLINE}$$ |
 | --- |
 | $${\color{red}Koden \space ska \space ligga \space \space uppe \space på \space GIT \space senast \space imorgon, \space 6 \space oktober \space 2026, \space kl. \space 10.00}$$ |
-| $${\color{red}Lycka till!}$$ |
+
+
+
+
+# 🌛 $${\color{green}Lycka \space till!}$$
