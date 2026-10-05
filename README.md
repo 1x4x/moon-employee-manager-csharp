@@ -64,5 +64,7 @@ Försök göra programmet så robust och framtidssäkert som möjligt! <br/>
 Ni får gärna lägga på extra funktionalitet!<br/>
 Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
 lidande) <br/>
+
 Koden ska ligga uppe på GIT senast imorgon kl. 10.00<br/>
+
 Lycka till!<br/>
