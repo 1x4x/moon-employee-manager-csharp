@@ -11,7 +11,7 @@ Small school project at the **Lexicon** education **.NET Fullstack developer** 2
 
 
 **$${\color{yellow}TECH}$$**<br/>
-console app, csharp, json
+console app, C#, json
 <br/>
 <br/>
 
