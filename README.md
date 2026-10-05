@@ -72,7 +72,7 @@ lidande) <br/>
 
 
 
-| Command |
+| $${\color{red}DEADLINE}$$ |
 | --- |
 | $${\color{yellow}Koden ska ligga uppe på GIT senast imorgon, 6 oktober 2026, kl. 10.00}$$ |
-| **Lycka till!** |
+| $${\color{yellow}**Lycka till!**}$$ |
