@@ -48,7 +48,7 @@ De har endast två krav<br/>
 <br/>
 
 
-| \space |
+|   |
 | --- |
 | **$${\color{yellow}ASSIGNMENT 1}$$** |
 | Vilka klasser bör ingå i programmet? |
