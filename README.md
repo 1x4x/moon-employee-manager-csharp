@@ -1,4 +1,4 @@
-# 🌛 <span style="color:yellow">Walters Employee Manager</span>
+# 🌛 $${\color{yellow}Walters Employee Manager}$$
 Small school project at the **Lexicon** education **.NET Fullstack developer** 2026 showcasing how to make a small "console app" that handles employee management.
 <br/>
 <br/>
@@ -15,7 +15,7 @@ console app, csharp, json
 <br/>
 <br/>
 
-$${\color{yellow}Walters Employee Manager}$$
+
 
 **INSTRUCTIONS**<br/>
 C# Övning 1 - Personalregister <br/>
