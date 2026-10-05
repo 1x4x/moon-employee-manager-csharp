@@ -6,7 +6,7 @@ Small school project at the **Lexicon** education **.NET Fullstack developer** 2
 
 **$${\color{yellow}ASSIGNMENT TIMELINE}**$$<br/>
 $${\color{yellow}START:}$$** 2026-10-05 13.00<br/>
-$${\color{yellow}START:}$$** 2026-10-06 10.00<br/>
+$${\color{yellow}DEADLINE:}$$** 2026-10-06 10.00<br/>
 <br/>
 
 
