@@ -74,5 +74,5 @@ lidande) <br/>
 
 | $${\color{red}DEADLINE}$$ |
 | --- |
-| $${\color{yellow}Koden ska ligga uppe på GIT senast imorgon, 6 oktober 2026, kl. 10.00}$$ |
-| $${\color{yellow}Lycka till!}$$ |
+| $${\color{red}Koden ska ligga uppe på GIT senast imorgon, 6 oktober 2026, kl. 10.00}$$ |
+| $${\color{red}Lycka till!}$$ |
