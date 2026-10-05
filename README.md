@@ -15,7 +15,7 @@ console app, csharp, json
 <br/>
 <br/>
 
-$${\color{yellow}Walters Employee Manager$$
+$${\color{yellow}Walters Employee Manager}$$
 
 **INSTRUCTIONS**<br/>
 C# Övning 1 - Personalregister <br/>
