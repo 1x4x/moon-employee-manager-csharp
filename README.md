@@ -1,1 +1,3 @@
-# employee-manager-csharp
+# Moon Employee Manager
+
+Tech: csharp, json
