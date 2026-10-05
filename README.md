@@ -55,22 +55,28 @@ De har endast två krav<br/>
 | $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
 
-**$${\color{yellow}ASSIGNMENT 2}$$**<br/>
-Vilka attribut och metoder bör ingå i dessa klasser? <br/>
-User (Read, Create)
-<br/>
+
+|   |
+| --- |
+| **$${\color{yellow}ASSIGNMENT 2}$$** |
+| Vilka attribut och metoder bör ingå i dessa klasser? |
+| $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
 
-**$${\color{yellow}ASSIGNMENT 3}$$**<br/>
-**Skriv programmet** <br/>
-Försök göra programmet så robust och framtidssäkert som möjligt! <br/>
-Ni får gärna lägga på extra funktionalitet!<br/>
-Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
-lidande) <br/>
 
 
+
+|   |
+| --- |
+| **$${\color{yellow}ASSIGNMENT 3}$$** |
+| **Skriv programmet** |
+| Försök göra programmet så robust och framtidssäkert som möjligt! |
+| Ni får gärna lägga på extra funktionalitet! |
+| Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
+lidande) |
+| $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
-<br/>
+
 
 
 
