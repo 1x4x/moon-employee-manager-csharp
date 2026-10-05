@@ -51,7 +51,7 @@ De har endast två krav<br/>
 |   |
 | --- |
 | **$${\color{yellow}ASSIGNMENT 1}$$** |
-| Vilka klasser bör ingå i programmet? |
+| ✅ Vilka klasser bör ingå i programmet? |
 | $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
 
@@ -59,7 +59,7 @@ De har endast två krav<br/>
 |   |
 | --- |
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
-| Vilka attribut och metoder bör ingå i dessa klasser? |
+| ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
 | $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
 
