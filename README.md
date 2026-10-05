@@ -47,9 +47,10 @@ De har endast två krav<br/>
 <br/>
 <br/>
 
-**$${\color{yellow}ASSIGNMENT 1}$$**<br/>
-| Vilka klasser bör ingå i programmet? |
+
+| **$${\color{yellow}ASSIGNMENT 1}$$** |
 | --- |
+| Vilka klasser bör ingå i programmet? |
 | $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
 
