@@ -54,6 +54,7 @@ De har endast två krav<br/>
 | $${\color{green}My answer:}$$ |
 | $${\color{green}Employee.Create(Employee \space employee)}$$ |
 | $${\color{green}Employee.GetAll()}$$ |
+| $${\color{green}No methods needed, maybe just keep it simple and make a more complex program next time:}$$ |
 <br/>
 
 
