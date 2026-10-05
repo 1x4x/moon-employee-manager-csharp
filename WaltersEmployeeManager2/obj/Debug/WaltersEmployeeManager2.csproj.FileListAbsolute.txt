@@ -1,0 +1,7 @@
+C:\Project\walters-employee-manager-3\WaltersEmployeeManager2\bin\Debug\WaltersEmployeeManager2.exe.config
+C:\Project\walters-employee-manager-3\WaltersEmployeeManager2\bin\Debug\WaltersEmployeeManager2.exe
+C:\Project\walters-employee-manager-3\WaltersEmployeeManager2\bin\Debug\WaltersEmployeeManager2.pdb
+C:\Project\walters-employee-manager-3\WaltersEmployeeManager2\obj\Debug\WaltersEmployeeManager2.csproj.AssemblyReference.cache
+C:\Project\walters-employee-manager-3\WaltersEmployeeManager2\obj\Debug\WaltersEmployeeManager2.csproj.CoreCompileInputs.cache
+C:\Project\walters-employee-manager-3\WaltersEmployeeManager2\obj\Debug\WaltersEmployeeManager2.exe
+C:\Project\walters-employee-manager-3\WaltersEmployeeManager2\obj\Debug\WaltersEmployeeManager2.pdb
