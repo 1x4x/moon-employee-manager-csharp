@@ -11,7 +11,7 @@ Small school project at the $${\color{red}LEXICON}$$ education $${\color{red}.NE
 
 
 **$${\color{yellow}TECH}$$**<br/>
-console app, C#, json
+C#, .NET, Console App
 <br/>
 <br/>
 
