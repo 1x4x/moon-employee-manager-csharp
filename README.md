@@ -65,14 +65,14 @@ Ni får gärna lägga på extra funktionalitet!<br/>
 Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
 lidande) <br/>
 
-<div align="left">$${\color{yellow}Koden ska ligga uppe på GIT senast imorgon, 6 oktober 2026, kl. 10.00}$$</div>
+
 <br/>
 <br/>
 
-Lycka till!<br/>
+
 
 
 | Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| --- |
+| $${\color{yellow}Koden ska ligga uppe på GIT senast imorgon, 6 oktober 2026, kl. 10.00}$$ |
+| **Lycka till!** |
