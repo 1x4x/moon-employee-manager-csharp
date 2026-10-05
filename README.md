@@ -10,8 +10,7 @@ Small school project at the $${\color{red}LEXICON}$$ education $${\color{red}.NE
 
 
 
-**$${\color{yellow}TECH}$$**<br/>
-C#, .NET, Console App
+**$${\color{yellow}TECH}$$** C#, .NET, Console App
 <br/>
 <br/>
 
