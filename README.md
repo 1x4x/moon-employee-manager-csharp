@@ -7,7 +7,7 @@ Small school project at the $${\color{red}LEXICON}$$ education $${\color{red}.NE
 <br/>
 
 
-✅
+
 
 
 **$${\color{yellow}TECH}$$**<br/>
@@ -19,17 +19,17 @@ console app, C#, json
 
 **$${\color{yellow}INSTRUCTIONS}$$**<br/>
 C# Övning 1 - Personalregister <br/>
-1. Add to source control nere i högra hörnet, välj git, Alternativt Git menyn Create Git 
+✅ 1. Add to source control nere i högra hörnet, välj git, Alternativt Git menyn Create Git 
 Repository <br/>
-2. Kryssa UR Checkboxen Private <br/>
-3. Create and Publish <br/>
-4. Kontrollera att repositoriet skapats i webbläsaren och alla filer finns med. Om så är 
+✅ 2. Kryssa UR Checkboxen Private <br/>
+✅ 3. Create and Publish <br/>
+✅ 4. Kontrollera att repositoriet skapats i webbläsaren och alla filer finns med. Om så är 
 fallet kan du hoppa över resten. Annars följ nästa steg. <br/>
-5. Gå till git changes i Visual Studio. <br/>
-6. Skriv in ett commit meddelande tryck på Commit <br/>
-7. Efter det Push med pilen uppåt. Alternativt Sync med två pilar i en cirkel. <br/>
-8. Kontrollera enligt punkt 4. <br/>
-9. Klart <br/>
+✅ 5. Gå till git changes i Visual Studio. <br/>
+✅ 6. Skriv in ett commit meddelande tryck på Commit <br/>
+✅ 7. Efter det Push med pilen uppåt. Alternativt Sync med två pilar i en cirkel. <br/>
+✅ 8. Kontrollera enligt punkt 4. <br/>
+✅ 9. Klart <br/>
 <br/>
 <br/>
 
