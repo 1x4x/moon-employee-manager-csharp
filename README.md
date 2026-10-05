@@ -4,6 +4,12 @@ Small school project at the **Lexicon** education **.NET Fullstack developer** 2
 <br/>
 
 
+**TIMELINE**<br/>
+STARTDATE: 2026-10-05<br/>
+ENDDATE: 2026-10-05<br/>
+<br/>
+
+
 **TECH**<br/>
 console app, csharp, json
 <br/>
