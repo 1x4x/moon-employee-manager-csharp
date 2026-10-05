@@ -1,4 +1,4 @@
-# 🌛 $${\color{yellow}WALTERS   \space \space EMPLOYEE   \space \space MANAGER}$$
+# $${\color{yellow}WALTERS   \space \space EMPLOYEE   \space \space MANAGER}$$ 🌛
 $${\color{yellow}START:}$$ 2026-10-05 13.00 \space \space \space $${\color{yellow}DEADLINE:}$$ 2026-10-06 10.00 <br/>
 
 
