@@ -1,6 +1,6 @@
-# 🌛 `#RRGGBB`Moon Employee Manager
+# 🌛 <span style="color:yellow">Moon Employee Manager</span>
 
-- ![#c5f015]asdfasdf `#c5f015`
+
 
 **TECH**<br/>
 console app, csharp, json
