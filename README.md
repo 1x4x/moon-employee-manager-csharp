@@ -10,14 +10,14 @@ $${\color{yellow}DEADLINE:}$$** 2026-10-06 10.00<br/>
 <br/>
 
 
-**TECH**<br/>
+**$${\color{yellow}TECH}$$**<br/>
 console app, csharp, json
 <br/>
 <br/>
 
 
 
-**INSTRUCTIONS**<br/>
+**$${\color{yellow}INSTRUCTIONS}$$**<br/>
 C# Övning 1 - Personalregister <br/>
 1. Add to source control nere i högra hörnet, välj git, Alternativt Git menyn Create Git 
 Repository <br/>
@@ -35,7 +35,7 @@ fallet kan du hoppa över resten. Annars följ nästa steg. <br/>
 
 
 
-**Bakgrund** <br/>
+**$${\color{yellow}BAKGRUND}$$**<br/>
 Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett litet personalregister. <br/>
 <br/>
 
