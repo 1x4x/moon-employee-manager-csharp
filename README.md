@@ -8,8 +8,6 @@ Small school project at the **Lexicon** education **.NET Fullstack developer** 2
 
 
 
-<br/>
-<br/>
 
 
 **$${\color{yellow}TECH}$$**<br/>
