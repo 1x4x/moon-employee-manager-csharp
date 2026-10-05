@@ -48,8 +48,9 @@ De har endast två krav<br/>
 <br/>
 
 **$${\color{yellow}ASSIGNMENT 1}$$**<br/>
-Vilka klasser bör ingå i programmet? <br/>
-$${\color{green}My answer: User (string fullname, int salary)}$$<br/>
+| Vilka klasser bör ingå i programmet? |
+| --- |
+| $${\color{green}My answer: User (string fullname, int salary)}$$ |
 <br/>
 
 **$${\color{yellow}ASSIGNMENT 2}$$**<br/>
