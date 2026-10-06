@@ -43,7 +43,7 @@ De har endast två krav<br/>
 | --- |
 | **$${\color{yellow}ASSIGNMENT 1}$$** |
 | ✅ Vilka klasser bör ingå i programmet? |
-| $${\color{green}My answer: Employee (string Name, int Salary)}$$ |
+| $${\color{green}My answer: Employee, EmployeeManager}$$ |
 <br/>
 
 
@@ -52,9 +52,10 @@ De har endast två krav<br/>
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
 | $${\color{green}My answer:}$$ |
-| $${\color{green}Employee.Create(Employee \space employee)}$$ |
-| $${\color{green}Employee.GetAll()}$$ |
-| $${\color{green}No methods needed, maybe just keep it simple and make a more complex program next time:}$$ |
+| $${\color{green}void EmployeeManager.Employee.Create(Employee \space employee)}$$ |
+| $${\color{green}List<Employee> EmployeeManager.Employee.GetAll()}$$ |
+| $${\color{green}string Employee.Name}$$ |
+| $${\color{green}int Employee.Salary}$$ |
 <br/>
 
 
