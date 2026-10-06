@@ -52,10 +52,10 @@ De har endast två krav<br/>
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
 | $${\color{green}My answer:}$$ |
-| $${\color{green}void EmployeeManager.Employee.Create(Employee \space employee)}$$ |
-| $${\color{green}List<Employee> EmployeeManager.Employee.GetAll()}$$ |
-| $${\color{green}string Employee.Name}$$ |
-| $${\color{green}int Employee.Salary}$$ |
+| $${\color{green}void \space EmployeeManager.Employee.Create(Employee \space employee)}$$ |
+| $${\color{green}List<Employee> \space EmployeeManager.Employee.GetAll()}$$ |
+| $${\color{green}string \space Employee.Name}$$ |
+| $${\color{green}int \space Employee.Salary}$$ |
 <br/>
 
 
