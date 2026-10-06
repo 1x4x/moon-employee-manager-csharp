@@ -15,15 +15,20 @@ namespace WaltersEmployeeManager2
 
                 while (true)
                 {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.WriteLine("ADD NEW EMPLOYEE:");
                     Console.WriteLine("-----------------");
+                    Console.ResetColor();
                     Console.Write("Name (or press Enter to quit): ");
                     name = Console.ReadLine();
 
                     if (string.IsNullOrWhiteSpace(name))
                     {
                         Console.WriteLine();
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("EMPLOYEES:");
+                        Console.WriteLine("-----------------");
+                        Console.ResetColor();
                         var employees = employeeManager.GetAllEmployees();
                         foreach (var item in employees)
                         {
