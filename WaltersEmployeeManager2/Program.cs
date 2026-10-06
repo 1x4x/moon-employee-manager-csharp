@@ -20,6 +20,8 @@ namespace WaltersEmployeeManager2
 
                     if (string.IsNullOrWhiteSpace(name))
                     {
+                        Console.WriteLine();
+                        Console.WriteLine("EMPLOYEES:");
                         var employees = employeeManager.GetAllEmployees();
                         foreach (var item in employees)
                         {
@@ -71,17 +73,6 @@ namespace WaltersEmployeeManager2
                 Console.WriteLine("Employee added.");
                 Console.WriteLine();
             }
-
-            Console.WriteLine();
-            Console.WriteLine("EMPLOYEES:");
-
-            foreach (Employee employee in employeeManager.GetAllEmployees())
-            {
-                Console.WriteLine(
-                    $"Name: {employee.Name}, Salary: {employee.Salary:C}");
-            }
         }
     }
-
-
 }
