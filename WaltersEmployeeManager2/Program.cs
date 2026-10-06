@@ -6,6 +6,7 @@ namespace WaltersEmployeeManager2
     {
         static void Main(string[] args)
         {
+            Start();
             EmployeeManager employeeManager = new EmployeeManager();
 
             while (true)
@@ -16,8 +17,9 @@ namespace WaltersEmployeeManager2
                 while (true)
                 {
                     Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine("ADD NEW EMPLOYEE:");
-                    Console.WriteLine("-----------------");
+                    Console.WriteLine("-------------------");
+                    Console.WriteLine(" ADD NEW EMPLOYEE");
+                    Console.WriteLine("-------------------");
                     Console.ResetColor();
                     Console.Write("Name (or press Enter to quit): ");
                     name = Console.ReadLine();
@@ -26,7 +28,8 @@ namespace WaltersEmployeeManager2
                     {
                         Console.WriteLine();
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("EMPLOYEES:");
+                        Console.WriteLine("-----------------");
+                        Console.WriteLine(" EMPLOYEES");
                         Console.WriteLine("-----------------");
                         Console.ResetColor();
                         var employees = employeeManager.GetAllEmployees();
@@ -40,7 +43,7 @@ namespace WaltersEmployeeManager2
                     break;
                 }
 
-                if (employeeManager.EmployeeExists(name))
+                if (employeeManager.EmployeeExists(name.Trim()))
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Employee already exists!");
@@ -92,5 +95,17 @@ namespace WaltersEmployeeManager2
                 Console.WriteLine();
             }
         }
+
+        static void Start()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine("---------------------------");
+            Console.WriteLine(" WALTERS EMPLOYEE MANAGER");
+            Console.WriteLine("---------------------------");
+            Console.ResetColor();
+            Console.WriteLine(" Helping you handle your\r\n employee management");
+            Console.WriteLine();
+        }
+
     }
 }
