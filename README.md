@@ -5,9 +5,11 @@ $${\color{yellow}START:}$$ 2026-10-05 13.00  \space  \space  \space  $${\color{y
 Small school project at the $${\color{red}LEXICON}$$ education $${\color{red}.NET Fullstack developer}$$ $${\color{yellow}2026}$$ showcasing how to make a small "console app" that handles employee management.
 
 <br/>
-<br/>
+
 
 ![Screenshot](walters-employee-manager-1.png)
+
+<br/>
 
 **$${\color{yellow}INSTRUCTIONS}$$**<br/>
 C# Övning 1 - Personalregister <br/>
