@@ -43,7 +43,7 @@ De har endast två krav<br/>
 | --- |
 | **$${\color{yellow}ASSIGNMENT 1}$$** |
 | ✅ Vilka klasser bör ingå i programmet? |
-| $${\color{green}My answer: User (string fullname, int salary)}$$ |
+| $${\color{green}My answer: Employee (string Name, int Salary)}$$ |
 <br/>
 
 
@@ -52,8 +52,9 @@ De har endast två krav<br/>
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
 | $${\color{green}My answer:}$$ |
-| $${\color{green}User.Create(User \space user)}$$ |
-| $${\color{green}User.GetAllUsers()}$$ |
+| $${\color{green}Employee.Create(Employee \space employee)}$$ |
+| $${\color{green}Employee.GetAll()}$$ |
+| $${\color{green}No methods needed, maybe just keep it simple and make a more complex program next time:}$$ |
 <br/>
 
 
@@ -67,7 +68,7 @@ De har endast två krav<br/>
 | ✅ Ni får gärna lägga på extra funktionalitet! |
 | ✅ Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
 lidande) |
-| $${\color{green}My answer: User (string fullname, int salary)}$$ |
+| $${\color{green}My answer: Employee (string fullname, int salary)}$$ |
 <br/>
 
 
