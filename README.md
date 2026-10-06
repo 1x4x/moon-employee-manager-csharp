@@ -68,7 +68,8 @@ De har endast två krav<br/>
 | **$${\color{yellow}ASSIGNMENT 3}$$** |
 | ✅ Skriv programmet |
 | ✅ Försök göra programmet så robust och framtidssäkert som möjligt! |
-| ❌ Ni får gärna lägga på extra funktionalitet! |
+| ✅ Ni får gärna lägga på extra funktionalitet! |
+| $${\color{green}Checking \space if \space employee \space already \space exists. \space instead \space \space of \space creating \space show \space error \space message \space in \space red \space text}$$ |
 | ❌ Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
 lidande) |
 <br/>
