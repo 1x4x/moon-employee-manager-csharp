@@ -70,7 +70,7 @@ De har endast två krav<br/>
 | ✅ Försök göra programmet så robust och framtidssäkert som möjligt! |
 | ✅ Ni får gärna lägga på extra funktionalitet! |
 | $${\color{green}Checking \space if \space employee \space already \space exists. \space instead \space \space of \space creating \space show \space error \space message \space in \space red \space text}$$ |
-| $${\color{green}Trim() \space to \space prevent \space \"Walter  \" \space to \space be \space added \space if \space \"Walter\" \space already \space exists}$$ |
+| $${\color{green}Trim() \space to \space prevent \space \"Walter \space \space \" \space to \space be \space added \space if \space \"Walter\" \space already \space exists}$$ |
 | ❌ Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
 lidande) |
 <br/>
