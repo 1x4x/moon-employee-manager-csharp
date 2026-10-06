@@ -7,7 +7,7 @@ Small school project at the $${\color{red}LEXICON}$$ education $${\color{red}.NE
 <br/>
 <br/>
 
-
+walters-employee-manager-1.png
 
 **$${\color{yellow}INSTRUCTIONS}$$**<br/>
 C# Övning 1 - Personalregister <br/>
