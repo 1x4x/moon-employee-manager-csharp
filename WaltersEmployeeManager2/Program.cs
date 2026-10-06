@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WaltersEmployeeManager2
 {
@@ -10,20 +6,59 @@ namespace WaltersEmployeeManager2
     {
         static void Main(string[] args)
         {
-            List<Employee> employees = new List<Employee>();
+            EmployeeManager employeeManager = new EmployeeManager();
 
             while (true)
             {
-                Console.Write("Name (or press Enter to quit): ");
-                string name = Console.ReadLine();
+                // Get name
+                string name;
 
-                if (string.IsNullOrWhiteSpace(name))
+                while (true)
                 {
+                    Console.Write("Name (or press Enter to quit): ");
+                    name = Console.ReadLine();
+
+                    if (string.IsNullOrWhiteSpace(name))
+                    {
+                        var employees = employeeManager.GetAllEmployees();
+                        foreach (var item in employees)
+                        {
+                            Console.WriteLine($"Name: {item.Name}, Salary: {item.Salary:C}");
+                        }
+                        return;
+                    }
+
                     break;
                 }
 
-                Console.Write("Salary: ");
-                decimal salary = decimal.Parse(Console.ReadLine());
+                // Get salary
+                decimal salary;
+
+                while (true)
+                {
+                    Console.Write("Salary: ");
+                    string salaryInput = Console.ReadLine();
+
+                    if (string.IsNullOrWhiteSpace(salaryInput))
+                    {
+                        Console.WriteLine("Salary is required.");
+                        continue;
+                    }
+
+                    if (!decimal.TryParse(salaryInput, out salary))
+                    {
+                        Console.WriteLine("Salary must be a number.");
+                        continue;
+                    }
+
+                    if (salary < 0)
+                    {
+                        Console.WriteLine("Salary must be 0 or higher.");
+                        continue;
+                    }
+
+                    break;
+                }
 
                 Employee employee = new Employee
                 {
@@ -31,22 +66,22 @@ namespace WaltersEmployeeManager2
                     Salary = salary
                 };
 
-                employees.Add(employee);
+                employeeManager.Create(employee);
+
+                Console.WriteLine("Employee added.");
+                Console.WriteLine();
             }
 
             Console.WriteLine();
             Console.WriteLine("EMPLOYEES:");
 
-            foreach (Employee employee in employees)
+            foreach (Employee employee in employeeManager.GetAllEmployees())
             {
-                Console.WriteLine($"Name: {employee.Name}, Salary: {employee.Salary:C}");
+                Console.WriteLine(
+                    $"Name: {employee.Name}, Salary: {employee.Salary:C}");
             }
         }
     }
 
-    public class Employee
-    {
-        public string Name { get; set; }
-        public decimal Salary { get; set; }
-    }
+
 }
