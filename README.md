@@ -5,9 +5,11 @@ $${\color{yellow}START:}$$ 2026-10-05 13.00  \space  \space  \space  $${\color{y
 Small school project at the $${\color{red}LEXICON}$$ education $${\color{red}.NET Fullstack developer}$$ $${\color{yellow}2026}$$ showcasing how to make a small "console app" that handles employee management.
 
 <br/>
+
+
+![Screenshot](walters-employee-manager-1.png)
+
 <br/>
-
-
 
 **$${\color{yellow}INSTRUCTIONS}$$**<br/>
 C# Övning 1 - Personalregister <br/>
@@ -43,7 +45,7 @@ De har endast två krav<br/>
 | --- |
 | **$${\color{yellow}ASSIGNMENT 1}$$** |
 | ✅ Vilka klasser bör ingå i programmet? |
-| $${\color{green}My answer: Employee (string Name, int Salary)}$$ |
+| $${\color{green}My answer: Employee, EmployeeManager}$$ |
 <br/>
 
 
@@ -52,9 +54,10 @@ De har endast två krav<br/>
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
 | $${\color{green}My answer:}$$ |
-| $${\color{green}Employee.Create(Employee \space employee)}$$ |
-| $${\color{green}Employee.GetAll()}$$ |
-| $${\color{green}No methods needed, maybe just keep it simple and make a more complex program next time:}$$ |
+| $${\color{green}void \space EmployeeManager.Employee.Create(Employee \space employee)}$$ |
+| $${\color{green}List<Employee> \space EmployeeManager.Employee.GetAll()}$$ |
+| $${\color{green}string \space Employee.Name}$$ |
+| $${\color{green}int \space Employee.Salary}$$ |
 <br/>
 
 
@@ -65,10 +68,9 @@ De har endast två krav<br/>
 | **$${\color{yellow}ASSIGNMENT 3}$$** |
 | ✅ Skriv programmet |
 | ✅ Försök göra programmet så robust och framtidssäkert som möjligt! |
-| ✅ Ni får gärna lägga på extra funktionalitet! |
-| ✅ Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
+| ❌ Ni får gärna lägga på extra funktionalitet! |
+| ❌ Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir 
 lidande) |
-| $${\color{green}My answer: Employee (string fullname, int salary)}$$ |
 <br/>
 
 
