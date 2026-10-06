@@ -45,7 +45,7 @@ De har endast två krav<br/>
 | --- |
 | **$${\color{yellow}ASSIGNMENT 1}$$** |
 | ✅ Vilka klasser bör ingå i programmet? |
-| $${\color{green}My answer: Employee, EmployeeManager}$$ |
+| $${\color{yellow}My answer: Employee, EmployeeManager}$$ |
 <br/>
 
 
@@ -53,7 +53,7 @@ De har endast två krav<br/>
 | --- |
 | **$${\color{yellow}ASSIGNMENT 2}$$** |
 | ✅ Vilka attribut och metoder bör ingå i dessa klasser? |
-| $${\color{green}My answer:}$$ |
+| $${\color{yellow}My answer:}$$ |
 | $${\color{green}void \space EmployeeManager.Employee.Create(Employee \space employee)}$$ |
 | $${\color{green}List<Employee> \space EmployeeManager.Employee.GetAll()}$$ |
 | $${\color{green}string \space Employee.Name}$$ |
