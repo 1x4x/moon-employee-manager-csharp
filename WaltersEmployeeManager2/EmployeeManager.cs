@@ -19,5 +19,14 @@ namespace WaltersEmployeeManager2
         {
             return employees;
         }
+
+        public bool EmployeeExists(string name)
+        {
+            var employees = GetAllEmployees();
+            if (employees.Any()) {
+                if (employees.FirstOrDefault(x => x.Name == name) != null) { return true; }
+            }
+            return false;
+        }
     }
 }

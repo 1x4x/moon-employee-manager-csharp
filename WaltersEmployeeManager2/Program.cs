@@ -15,6 +15,8 @@ namespace WaltersEmployeeManager2
 
                 while (true)
                 {
+                    Console.WriteLine("ADD NEW EMPLOYEE:");
+                    Console.WriteLine("-----------------");
                     Console.Write("Name (or press Enter to quit): ");
                     name = Console.ReadLine();
 
@@ -31,6 +33,15 @@ namespace WaltersEmployeeManager2
                     }
 
                     break;
+                }
+
+                if (employeeManager.EmployeeExists(name))
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Employee already exists!");
+                    Console.ResetColor();
+                    Console.WriteLine();
+                    continue;
                 }
 
                 // Get salary
@@ -68,9 +79,11 @@ namespace WaltersEmployeeManager2
                     Salary = salary
                 };
 
+               
                 employeeManager.Create(employee);
-
-                Console.WriteLine("Employee added.");
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Employee added!");
+                Console.ResetColor();
                 Console.WriteLine();
             }
         }
